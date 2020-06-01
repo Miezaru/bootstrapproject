@@ -1,0 +1,5 @@
+node_modules/
+.bashrc
+.jshintrc
+gulpfile.js
+yarn.lock
